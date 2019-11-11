@@ -7,7 +7,7 @@ function Social({ website, twitter, github, linkedin }) {
   return (
     <Wrapper>
       {website && (
-        <SocialLink href={website} target="_blank" rel="noopener">
+        <SocialLink href={website} rel="noopener">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"

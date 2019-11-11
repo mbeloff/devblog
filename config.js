@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
-  primaryColor: '#3498db', // Required
+  title: 'BobRossCRI', // Required
+  author: 'Maaret Webb', // Required
+  description: 'Teaching Artist and Certified Ross Instructor',
+  primaryColor: '#f79c52', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    website: 'https://arthoughts.com',
+    // github: 'https://github.com/ryanfitzgerald',
+    // twitter: 'https://twitter.com/ryanafitzgerald',
+    // linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  // siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
 };
