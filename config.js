@@ -13,5 +13,5 @@ module.exports = {
     // linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
   },
   pathPrefix: '/devblog',
-  // siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+    siteUrl: 'https://https://github.com/mbeloff/devblog/',
 };
