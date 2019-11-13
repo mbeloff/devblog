@@ -1,9 +1,9 @@
 ---
-title: Welcome to the Blog!
-date: "2019-10-01"
-featuredImage: './featured.jpg'
+title: Scenes for Beginners!
+date: "2019-08-18"
+featuredImage: './featured1.jpg'
 ---
 
-Welcome to the new Arthoughts blog. Here we'll keep you posted with abouts to our Bob Ross painting workshops, general painting info and photos of my progress recreating every single landscape painting from the Bob Ross PBS show 'The Joy of Painting'.
+These mountain themes are great for newbies to the method...they cover a nice range of techniques with Bob’s magic brushes...all you need to know to get painting along with him at home. 👍😊
 
 <!-- end -->
