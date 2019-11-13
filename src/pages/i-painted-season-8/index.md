@@ -4,11 +4,11 @@ date: "2019-11-10"
 featuredImage: './featured.jpg'
 ---
 
-Finished season 8 finally...it’s taken me the longest so far, life has other plans sometimes that don’t involve painting...you can’t see me but you can hear me prattling on about them 😂 Check out the video below...
-
-
+Finished season 8 finally...
 
 <!-- end -->
+
+it’s taken me the longest so far, life has other plans sometimes that don’t involve painting...you can’t see me but you can hear me prattling on about them 😂 Check out the video below...
 
 # Video:
 
