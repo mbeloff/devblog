@@ -1,5 +1,5 @@
 ---
-title: Seascape recap
+title: Joy of Painting Seascapes
 date: "2019-11-12"
 featuredImage: './featured.jpg'
 ---
