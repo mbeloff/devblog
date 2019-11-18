@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'BobRossCRI', // Required
+  title: 'BobRossCRI Updates', // Required
   author: 'Maaret Webb', // Required
   description: 'Teaching Artist and Certified Ross Instructor. Keep up to date with tips and tricks and news about our Bob Ross Workshops',
   primaryColor: '#f79c52', // Required
