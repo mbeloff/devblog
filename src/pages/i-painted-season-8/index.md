@@ -4,7 +4,7 @@ date: "2019-11-10"
 featuredImage: './featured.jpg'
 ---
 
-Finished season 8 finally...
+Finished season 8 finally, continue reading below to see the results...
 
 <!-- end -->
 
