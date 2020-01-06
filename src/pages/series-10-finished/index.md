@@ -1,5 +1,5 @@
 ---
-title: Series 10 painting complete
+title: Series 10 Complete
 date: "2020-01-06"
 featuredImage: './featured.jpg'
 ---
