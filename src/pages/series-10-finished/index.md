@@ -1,6 +1,6 @@
 ---
 title: Series 10 painting complete
-date: "2019-01-06"
+date: "2020-01-06"
 featuredImage: './featured.jpg'
 ---
 
