@@ -1,5 +1,5 @@
 ---
-title: Another Workshop Has Come and Gone
+title: Another Great Day Teaching
 date: "2019-12-10"
 featuredImage: './featured.jpg'
 ---

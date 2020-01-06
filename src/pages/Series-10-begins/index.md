@@ -1,5 +1,5 @@
 ---
-title: A Little Inspiration
+title: Series 10 Begins
 date: "2019-12-16"
 featuredImage: './featured.jpg'
 ---
